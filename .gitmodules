@@ -1,3 +1,6 @@
 [submodule "ifitness"]
 	path = ifitness
 	url = git@github.com:devlucasalmd/ifitness.git
+[submodule "tecinfo"]
+	path = tecinfo
+	url = git@github.com:devlucasalmd/tecinfo.git
